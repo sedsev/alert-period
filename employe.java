@@ -16,5 +16,6 @@ public class employe{
 			system.out.println(salaire_base[i]);
 										}
 		system.out.println('Voir moi un  feneant; quant il va lire ca il va rire');
+		system.out.println('salaire de base=' + salaire de base[i]);
 }
 }
