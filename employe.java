@@ -18,4 +18,8 @@ public class employe{
 		system.out.println('Voir moi un  feneant; quant il va lire ca il va rire');
 		system.out.println('salaire de base=' + salaire_base[i]);
 }
+public void notification(){
+		
+		system.out.println("Vous venez d`ajouter une nouvele methode");
+	}
 }
